@@ -1,1 +1,3 @@
-I don't have much hope learning Git
+I don't have much hope learning Git.
+
+Making more edits
